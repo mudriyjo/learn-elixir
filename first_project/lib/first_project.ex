@@ -13,6 +13,6 @@ defmodule FirstProject do
 
   """
   def hello do
-    :world
+    [:world, :lol]
   end
 end
